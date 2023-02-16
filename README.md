@@ -11,6 +11,7 @@ The app is made to learn more about flutter.
 ## Screenshots
 
 **Negative**
+
 <img src="https://user-images.githubusercontent.com/63343297/219454859-c86fca83-b086-4591-b1ad-dad60463160a.png"  width="600" height="700">
 <!-- ![negative](https://user-images.githubusercontent.com/63343297/219454859-c86fca83-b086-4591-b1ad-dad60463160a.png) -->
 
